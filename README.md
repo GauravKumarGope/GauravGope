@@ -1,1 +1,1 @@
-This contains a code for a Stone , Paper , scissors Game 
+This contains all the projects made by Gaurav kumar Gope 
